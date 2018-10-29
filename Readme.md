@@ -25,13 +25,13 @@ The code is relatively organized but here is the structure for anyone who wants 
 
 * POST /login
     * Search on database for matching results on **email** and **password**
-    * Returns user's property if succeded
+    * Returns user's property if succeeded
     * Returns error message if not
 
 * POST /register
     * Search on database for matching results on **email**
     * If it is not registered, then, register the new user
-    * Returns user's property if succeded
+    * Returns user's property if succeeded
     * Returns error message if email is registered or form is invalid
 
 
