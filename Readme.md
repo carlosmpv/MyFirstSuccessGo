@@ -1,4 +1,4 @@
-# Learning GO
+# My first project GO
 
 ### this is my first functional go project
 
